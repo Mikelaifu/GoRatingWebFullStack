@@ -1,6 +1,6 @@
 # GoRating Project
 
-## Web Link: 
+## Web Link: http://goplayerviz.herokuapp.com/
 
 ### Game Intro
 Go is an attractive strategy board game invented some 4000 years ago in China. It is part of popular culture today in China, Japan and Korea and becomes increasingly popular in the west. Go4Go.net has been promoting this game online since 1999.
