@@ -7,8 +7,10 @@ Go is an attractive strategy board game invented some 4000 years ago in China. I
 
 ## Teamwork Info:
 * Working on a team of 4 including Cong, Mike, Irene and Brian
-* Designed Web dashboard's appearence 
+* Designed Web dashboard by HTML, CSS, Bootstrap
 * Scrped data including gamer's name, historic Elo scores, ranking, Birthday, gender, Opponent information & scores from GoRating.com
-* Based on Python Falsk, we connected our web visualziation codes with local Mongo database 
-* Used Plotly, Chart.js, D3.js to achieve different users interactive data visualziations
+(BeautifulSoup, Splinter)
+* Storaged Data into MongoDB
+* Set up data endpoints for each interactive visuailziations in  microframework with Flask(Python) and with Pandas, numpy  
+* Used Plotly, Chart.js, D3.js to achieve 3 pages of users interactive data visualziations charts to present insight for go-game
 
