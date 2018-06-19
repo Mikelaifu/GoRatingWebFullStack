@@ -14,3 +14,8 @@ Go is an attractive strategy board game invented some 4000 years ago in China. I
 * Set up data endpoints for each interactive visuailziations in  microframework with Flask(Python) and with Pandas, numpy  
 * Used Plotly, Chart.js, D3.js to achieve 3 pages of users interactive data visualziations charts to present insight for go-game
 
+### here is the preview of website:
+
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
