@@ -16,6 +16,6 @@ Go is an attractive strategy board game invented some 4000 years ago in China. I
 
 ### here is the preview of website:
 
-![Screenshot](1.png)
-![Screenshot](2.png)
-![Screenshot](3.png)
+![Screenshot](images/1.png)
+![Screenshot](images/2.png)
+![Screenshot](images/3.png)
